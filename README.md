@@ -26,6 +26,8 @@ Whether you're a beginner eager to learn PHP or an experienced developer looking
 
 Feel free to explore the code, experiment with it, and adapt it to your own projects. Happy coding!
 
+GET: users.php
+
 ```
 [
     {
